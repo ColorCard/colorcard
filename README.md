@@ -4,6 +4,11 @@
 [![ColorCard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=colorcard&count_private=true&show_icons=true&line_height=40)](https://github.com/ColorCard)
 [![ColorCard's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=colorcard&show_icons=true)](https://github.com/ColorCard)
 
+## 🔭 What is doing
+- `Sep 2024 - Now` Study at XTU.
+
+## 📫 Contact me
+- e-mail: [liwq6688@icloud.com](liwq6688@icloud.com)
 
 <!--
 **ColorCard/colorcard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
