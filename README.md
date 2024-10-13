@@ -9,7 +9,9 @@
 
 ## 📫 Contact me
 - e-mail: [liwq6688@icloud.com](liwq6688@icloud.com)
-- QQ:  [3533260786](http://wpa.qq.com/msgrd?v=3&uin=3533260786&site=qq&menu=yes) (Only in urgent cases)
+- QQ:  [3533260786](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=3533260786) (Only in urgent cases)
+
+
 
 <!--
 **ColorCard/colorcard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
