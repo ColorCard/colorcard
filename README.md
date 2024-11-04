@@ -9,5 +9,5 @@
 
 ## 📫 Contact me
 _**(Please read this [article](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md) before you ask for me.)**_
-- e-mail: [liwq6688@icloud.com](liwq6688@icloud.com)
+- e-mail: [liwq6688@icloud.com](mailto:liwq6688@icloud.com)
 - QQ:  [3533260786](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=3533260786) (Only in urgent cases)
