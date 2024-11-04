@@ -1,4 +1,4 @@
-## This is ColorCard! 👋
+## Hi, This is ColorCard! 👋
 
 
 [![ColorCard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=colorcard&count_private=true&show_icons=true&line_height=40)](https://github.com/ColorCard)
