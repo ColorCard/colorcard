@@ -6,7 +6,7 @@
 
 **🌟 GitHub Statistics**
 <br>
-[![ColorCard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=colorcard&count_private=true&show_icons=true&line_height=25)](https://github.com/ColorCard)
+[![ColorCard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=colorcard&count_private=true&show_icons=true&line_height=20)](https://github.com/ColorCard)
 
 
  **🔭 Current Focus**
