@@ -19,7 +19,6 @@ Artificial Intelligence & Machine Learning
 Software Development and System Design  
 Open Source Contributions  
 
-<br>
 
 ### **📫 Contact Me**
 
