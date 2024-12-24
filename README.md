@@ -10,13 +10,14 @@
 
 
  **🔭 Current Focus**
-- 🎓 **Studying at Xiangtan University (XTU)**  
+ 
+ 🎓 **Studying at Xiangtan University (XTU)**  
   *`Sep 2024 - Present`*
 
-- 💡 **Interested in:**  
-  - Artificial Intelligence & Machine Learning  
-  - Software Development and System Design  
-  - Open Source Contributions  
+💡 **Interested in:**  
+Artificial Intelligence & Machine Learning  
+Software Development and System Design  
+Open Source Contributions  
 
 <br>
 
